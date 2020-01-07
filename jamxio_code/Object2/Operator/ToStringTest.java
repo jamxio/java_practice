@@ -1,4 +1,5 @@
 //自定义类的toString方法，用于打印对象，见书本P173
+//使用打印时，会自动调用类的toString()方法
 
 class Apple {
 
